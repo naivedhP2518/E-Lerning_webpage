@@ -126,5 +126,5 @@ Contributions are welcome! Feel free to:
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Naivedhya Pawar</strong>
+  Made with ❤️ by <strong>Naivedh Patel</strong>
 </p>
